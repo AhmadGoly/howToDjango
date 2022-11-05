@@ -1,1 +1,2 @@
 # howToDjango
+for the PythonEverywhere :)
