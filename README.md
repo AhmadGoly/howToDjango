@@ -1,2 +1,2 @@
 # howToDjango
-for the PythonEverywhere :)
+All my Codes for running Django on PythonAnywhere.
